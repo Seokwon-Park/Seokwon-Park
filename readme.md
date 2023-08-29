@@ -5,3 +5,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rty3394)](https://solved.ac/rty3394/)
 
 https:/pswrty.tistory.com
+1
