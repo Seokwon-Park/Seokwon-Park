@@ -10,11 +10,12 @@ Aspiring game client developers and graphics engineers
 
 # Toy Projects
 [GameEngine](https://github.com/Seokwon-Park/GameEngine)   
-<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/2d97e1f3-22a7-4931-8fd8-70fd759e3fe4.png" width="500" height="500"/>
-<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/4e662030-eeca-49df-b4c6-54c67498fdbe.png" width="700" height="500"/>
+<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/2d97e1f3-22a7-4931-8fd8-70fd759e3fe4.png" width="400" height="400"/>
+<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/4e662030-eeca-49df-b4c6-54c67498fdbe.png" width="400" height="300"/>
 
-[DX11Renderer](https://github.com/Seokwon-Park/DX11GraphicRenderer)
-![image](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/165580fb-44d5-4d97-a56a-1d8cd7dac838)
+[DX11Renderer](https://github.com/Seokwon-Park/DX11GraphicRenderer)  
+<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/165580fb-44d5-4d97-a56a-1d8cd7dac838.png" width="500" height="400"/>
+
 
 
 # Sites
