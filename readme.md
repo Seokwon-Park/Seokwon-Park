@@ -19,5 +19,5 @@ Aspiring game client developers and graphics engineers
 
 
 # Sites
-[Blog](https:/pswrty.tistory.com)
+[Blog](https://pswrty.tistory.com)
 
