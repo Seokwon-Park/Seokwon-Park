@@ -16,7 +16,13 @@ Aspiring game client developers and graphics engineers
 [DX11Renderer](https://github.com/Seokwon-Park/DX11GraphicRenderer)  
 <img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/165580fb-44d5-4d97-a56a-1d8cd7dac838.png" width="500" height="400"/>
 
+## 💻 My Stacks
+### Languages & APIs
 
+<div>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white"/>
+</div>
 
 # Sites
 [Blog](https://pswrty.tistory.com)
