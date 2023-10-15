@@ -9,7 +9,7 @@ Aspiring game client developers and graphics engineers
 
 
 # Toy Projects
-[Steins; Engine](https://github.com/Seokwon-Park/SteinsEngine) 
+[Steins; Engine](https://github.com/Seokwon-Park/Steins-Engine) 
 <img src = "https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/a4298a81-245c-4530-bc80-be38d921f754.png"/>
 
 [GameEngine](https://github.com/Seokwon-Park/GameEngine)   
