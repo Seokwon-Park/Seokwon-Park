@@ -8,8 +8,8 @@ Aspiring game client developers and graphics engineers
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rty3394)](https://solved.ac/rty3394/)
 
 
-# Toy Projects
-[Steins; Engine](https://github.com/Seokwon-Park/Steins-Engine) 
+# Personal projects
+[Steins; Engine](https://github.com/Seokwon-Park/Steins) 
 <img src = "https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/a4298a81-245c-4530-bc80-be38d921f754.png"/>
 
 [GameEngine](https://github.com/Seokwon-Park/GameEngine)   
@@ -17,7 +17,7 @@ Aspiring game client developers and graphics engineers
 <img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/4e662030-eeca-49df-b4c6-54c67498fdbe.png" width="400" height="300"/>
 
 [DX11Renderer](https://github.com/Seokwon-Park/DX11GraphicRenderer)  
-<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/165580fb-44d5-4d97-a56a-1d8cd7dac838.png" width="500" height="400"/>
+<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/165580fb-44d5-4d97-a56a-1d8cd7dac838.png" width="1280" height="720"/>
 
 ## 💻 My Stacks
 ### Languages & APIs
