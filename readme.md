@@ -10,7 +10,6 @@ Aspiring game client developers and graphics engineers
 
 # Personal projects
 [Steins; Engine](https://github.com/Seokwon-Park/Steins) 
-<img src = "https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/a4298a81-245c-4530-bc80-be38d921f754.png"/>
 ![image](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/72115ffd-5a54-4b29-a321-9986fbf3824d)
 
 
