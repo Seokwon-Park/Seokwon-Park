@@ -2,7 +2,7 @@
 
 # About Me
 게임 클라이언트 개발자와 그래픽스 엔지니어 지망.   
-Aspiring game client developers and graphics engineers
+Aspiring game client developer and graphics engineer
 
 ![Seokwon-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokwon-Park&show_icons=true&theme=dark)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rty3394)](https://solved.ac/rty3394/)
