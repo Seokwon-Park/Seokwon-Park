@@ -2,13 +2,14 @@
 
 # About Me
 게임 클라이언트 개발자와 그래픽스 엔지니어 지망.   
-Aspiring game client developer and graphics engineer
 
 ![Seokwon-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokwon-Park&show_icons=true&theme=dark)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rty3394)](https://solved.ac/rty3394/)
 
 
 # Personal projects
+DirectX11, OpenGL 사용한 2D 게임엔진 개인프로젝트
+
 [Steins; Engine](https://github.com/Seokwon-Park/Steins) 
 ![image](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/72115ffd-5a54-4b29-a321-9986fbf3824d)
 
