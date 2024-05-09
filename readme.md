@@ -8,11 +8,9 @@
 
 
 # Personal projects
-DirectX11, OpenGL 사용한 2D 게임엔진 개인프로젝트
-
+DirectX11, OpenGL 사용한 2D 게임엔진 프로젝트
 [Steins; Engine](https://github.com/Seokwon-Park/Steins) 
 ![image](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/72115ffd-5a54-4b29-a321-9986fbf3824d)
-
 
 [GameEngine](https://github.com/Seokwon-Park/GameEngine)   
 <img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/2d97e1f3-22a7-4931-8fd8-70fd759e3fe4.png" width="400" height="400"/>
