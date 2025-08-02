@@ -8,7 +8,7 @@
 
 # Personal projects
 DirectX11, OpenGL 사용한 2D 게임엔진 프로젝트   
-[Steins; Engine](https://github.com/Seokwon-Park/SteinsReboot)   
+[Daydream Engine](https://github.com/Seokwon-Park/SteinsReboot)   
 ![GIFMaker_me](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/47fbe950-8b26-414b-8804-f74bce7138bc)   
 <img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/72115ffd-5a54-4b29-a321-9986fbf3824d.png" width="500" height="300"/>
 
