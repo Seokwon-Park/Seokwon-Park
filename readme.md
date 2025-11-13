@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Github&fontAlign=70&rotate=13&fontAlignY=25&desc=Computer%20Graphics%20and%20Game%20Programming&descAlign=73&descAlignY=44">
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af6c31be-a59a-4fa2-93d1-555fb4e6fa19" /><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Github&fontAlign=70&rotate=13&fontAlignY=25&desc=Computer%20Graphics%20and%20Game%20Programming&descAlign=73&descAlignY=44">
 
 # About Me
 
@@ -7,10 +7,11 @@
 
 
 # Personal projects
-DirectX11, OpenGL 사용한 2D 게임엔진 프로젝트   
+MultiGraphicsAPI 지원하는 3D 게임엔진 프로젝트   
 [Daydream Engine](https://github.com/Seokwon-Park/SteinsReboot)   
-![GIFMaker_me](https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/47fbe950-8b26-414b-8804-f74bce7138bc)   
-<img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/72115ffd-5a54-4b29-a321-9986fbf3824d.png" width="500" height="300"/>
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a0f219b5-faf3-43b5-a12c-ee4d3b7f9f62" />
+<img width="1281" height="723" alt="image" src="https://github.com/user-attachments/assets/7fc2e770-eeee-4d7a-8c1e-4cb61463f0ea" />
+
 
 [GameEngine](https://github.com/Seokwon-Park/GameEngine)   
 <img src="https://github.com/Seokwon-Park/Seokwon-Park/assets/22045739/2d97e1f3-22a7-4931-8fd8-70fd759e3fe4.png" width="400" height="400"/>
