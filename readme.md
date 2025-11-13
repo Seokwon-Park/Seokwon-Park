@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/af6c31be-a59a-4fa2-93d1-555fb4e6fa19" /><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Github&fontAlign=70&rotate=13&fontAlignY=25&desc=Computer%20Graphics%20and%20Game%20Programming&descAlign=73&descAlignY=44">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=200&text=Github&fontAlign=70&rotate=13&fontAlignY=25&desc=Computer%20Graphics%20and%20Game%20Programming&descAlign=73&descAlignY=44">
 
 # About Me
 
