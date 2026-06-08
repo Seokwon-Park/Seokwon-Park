@@ -1,6 +1,6 @@
 # 안녕하세요
 
-게임프로그래머를 지망하고 있습니다.
+게임 프로그래머 박석원이라고 합니다.
 > "로우레벨 그래픽스부터 게임플레이 로직까지, 원리를 파고드는 개발을 지향합니다"
 
 ![Seokwon-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokwon-Park&show_icons=true&theme=dark)   
