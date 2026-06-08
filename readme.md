@@ -6,13 +6,13 @@
 ![Seokwon-Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokwon-Park&show_icons=true&theme=dark)   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rty3394)](https://solved.ac/rty3394/)
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 * **Languages:** C++, C#
 * **Graphics API:** OpenGL, DirectX 11/12, Vulkan
 * **Game Engines:** Unreal Engine, Unity Engine, Custom Engine
 * **Certifications:** 정보처리기사
 
-## 🚀 Projects
+# 🚀 Projects
 ## Daydream Engine
 [Daydream Engine](https://github.com/Seokwon-Park/DaydreamEngine)   
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a0f219b5-faf3-43b5-a12c-ee4d3b7f9f62" />   
@@ -35,10 +35,7 @@
 [Overcooked 2 모작(6인 개발)](https://github.com/Seokwon-Park/UE_Overcooked2)   
 <img width="713" height="457" alt="image" src="https://github.com/user-attachments/assets/769465dc-537c-43b4-b97e-d7167e5052bf" />
 
-# Stack
-정보처리기사
-
-# Sites
+# 🌐 Links
 [Blog](https://pswrty.tistory.com)
 [Youtube](https://www.youtube.com/@pswDev)
 
